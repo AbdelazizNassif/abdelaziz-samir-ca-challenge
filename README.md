@@ -30,7 +30,6 @@
 ### Open allure report locally or from github page
 ```bash
 Allure serve
-Find the report here: https://abdelaziznassif.github.io/abdelaziz-samir-ca-challenge/
 ```
 
 ## How to contribute:
